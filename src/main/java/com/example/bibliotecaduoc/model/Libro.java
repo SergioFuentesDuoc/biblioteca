@@ -17,5 +17,6 @@ public class Libro {
     private int fechaPublicacion;
     private String autor;
     private String fec;
+    private String fech;
 
 }
